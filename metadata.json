@@ -1,0 +1,6 @@
+{
+  "name": "Al-Tarteel — Apprendre le Saint Coran",
+  "description": "Une plateforme simple et gratuite pour apprendre le Coran, améliorer sa lecture, son Tajwid et sa mémorisation, où que vous soyez.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
